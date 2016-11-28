@@ -9,6 +9,6 @@ reference:https://github.com/tensorflow/tensorflow/blob/r0.11/tensorflow/models/
 ## Tensorflow-practice3 (& tsne.png)
 ### word2vec_basic
 reference:https://github.com/tensorflow/tensorflow/blob/r0.11/tensorflow/examples/tutorials/word2vec/word2vec_basic.py
-## Tensorflow-practice4
+## Tensorflow-practice4 (modifying...)
 ### word2vec
 reference:https://github.com/tensorflow/tensorflow/blob/r0.11/tensorflow/models/embedding/word2vec.py
