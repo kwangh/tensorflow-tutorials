@@ -1,5 +1,5 @@
 # Tensorflow
-tensorflow tutorials tryout
+Tensorflow tutorials tryout
 ## Tensorflow-practice1
 ### Deep MNIST for Experts
 reference:https://www.tensorflow.org/versions/r0.11/tutorials/mnist/pros/index.html
