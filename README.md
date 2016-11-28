@@ -12,3 +12,6 @@ reference:https://github.com/tensorflow/tensorflow/blob/r0.11/tensorflow/example
 ## Tensorflow-practice4 (modifying...)
 ### word2vec
 reference:https://github.com/tensorflow/tensorflow/blob/r0.11/tensorflow/models/embedding/word2vec.py
+## Tensorflow-practice6
+### Reading data
+reference:https://www.tensorflow.org/versions/r0.11/how_tos/reading_data/index.html#reading-data
