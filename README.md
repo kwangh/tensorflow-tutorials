@@ -15,3 +15,6 @@ reference:https://github.com/tensorflow/tensorflow/blob/r0.11/tensorflow/models/
 ## Tensorflow-practice6 (& file0.csv)
 ### Reading data
 reference:https://www.tensorflow.org/versions/r0.11/how_tos/reading_data/index.html#reading-data
+## Tensorflow-practice7
+### Sharing Variables
+reference:https://www.tensorflow.org/versions/r0.12/how_tos/variable_scope/index.html#sharing-variables
